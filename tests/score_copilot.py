@@ -41,7 +41,7 @@ for r in run:
             n = next((k[-1] for k in r if k.startswith("testMethodType_") and r[k] == "Meaning match"), None)
             if n and r[f"result_{n}"] != "Pass":
                 why.append("meaning match failed: " + r[f"explanation_{n}"][:120])
-        if "as-of" in g["expected_answer"] and AS_OF not in a:
+        if AS_OF in g["expected_answer"] and AS_OF not in a:
             why.append("no as-of line after fees or dates")
     bad = [f for f in re.findall(r"\$[\d,]+", a) if f.rstrip(",") not in KNOWN_FEES]
     if bad:
