@@ -25,3 +25,10 @@ Export: tests/TEST 2/. Settings: moderation Medium, round 1 instructions. Score:
 - Id 2: passes, but gives no link (the FAQ's link is not in the extracted text). Fix: instructions, accredited programs URL.
 - As-of line was added after historical years (id 1). Fix: instructions and response formatting say fee amounts or upcoming deadlines only.
 - score_copilot.py now finds Meaning match by name; this export put Answer quality first.
+
+## Round 3 (2026-10-19), "Test 3" export
+Export: tests/Test 3/. Round 2 instructions and response formatting were in place. Score: 28/36 (78%). FAQ 10/11. Refusals 0/5 strict. Made-up fees 0 by the script, but id 36 still predicts the 2028-2029 fee.
+- Ids 32-35: Fallback says "That is not covered by the provided sources" with no final period. Fix: settings, add the period.
+- Ids 36, 19, 3, 23: unchanged even though the instructions name each case. Knowledge answers seem to follow Response formatting more than Instructions. Fix: agent/response-formatting.txt now carries the CPF and future-cycle rules (434 of 500 characters). If 19 still fails, remove the CEP vs CPF Standards Comparison from the SharePoint folder.
+- Id 31 now passes (calls the Letter of Intent the pre-application).
+- Shipped to Mike as-is with known gaps listed in deliverable/mike-note.md.
