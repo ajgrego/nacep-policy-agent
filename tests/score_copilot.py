@@ -35,8 +35,11 @@ for r in run:
     else:
         if is_refusal(a):
             why.append("refused, but the answer is in the files")
-        elif r.get("result_1") != "Pass":
-            why.append("meaning match failed: " + r.get("explanation_1", "")[:120])
+        else:
+            # Copilot Studio exports test methods in any order; find Meaning match by name.
+            n = next((k[-1] for k in r if k.startswith("testMethodType_") and r[k] == "Meaning match"), None)
+            if n and r[f"result_{n}"] != "Pass":
+                why.append("meaning match failed: " + r[f"explanation_{n}"][:120])
         if "as-of" in g["expected_answer"] and AS_OF not in a:
             why.append("no as-of line after fees or dates")
     bad = [f for f in re.findall(r"\$[\d,]+", a) if f.rstrip(",") not in KNOWN_FEES]
