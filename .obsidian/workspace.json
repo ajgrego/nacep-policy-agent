@@ -11,10 +11,14 @@
             "id": "66238873a8de3c0b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -182,9 +186,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d031215f660d7b4a",
+  "active": "66238873a8de3c0b",
   "lastOpenFiles": [
-    "hi.md",
-    "dfdfd.md"
+    "dfdfd.md",
+    "hi.md"
   ]
 }
