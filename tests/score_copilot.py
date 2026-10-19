@@ -4,7 +4,8 @@ Usage: python3 tests/score_copilot.py tests/runs/R1-run1.csv
 """
 import csv, re, sys
 
-REFUSAL = "That is not covered by the provided sources."
+# Matched with or without the final period: the Fallback message drops it.
+REFUSAL = "That is not covered by the provided sources"
 AS_OF = "Per nacep.org as of"
 # Fees stated in the sources. Any other dollar figure counts as made up.
 KNOWN_FEES = {"$350", "$500", "$560", "$600", "$1,060", "$1060"}

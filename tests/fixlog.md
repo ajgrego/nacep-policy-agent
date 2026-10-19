@@ -32,3 +32,11 @@ Export: tests/Test 3/. Round 2 instructions and response formatting were in plac
 - Ids 36, 19, 3, 23: unchanged even though the instructions name each case. Knowledge answers seem to follow Response formatting more than Instructions. Fix: agent/response-formatting.txt now carries the CPF and future-cycle rules (434 of 500 characters). If 19 still fails, remove the CEP vs CPF Standards Comparison from the SharePoint folder.
 - Id 31 now passes (calls the Letter of Intent the pre-application).
 - Shipped to Mike as-is with known gaps listed in deliverable/mike-note.md.
+
+## Test set audit (2026-10-19), against the 15 sources
+- Id 2: expected a nacep.org/accredited-programs URL that is not in any source's text (the FAQ only says "A complete list of accredited programs is available here"). Rewritten to match what the FAQ says. Ignore Copilot's "Answer quality" and "Grounded and cited" on this row; they want a list of colleges or a refusal, which contradict each other.
+- Id 3: dropped the category list, the fall 2018 date and the FAQ 2009 note. Kept the core facts the sources state (2002/2009/2017, CEP 16, CPF 13 October 2019).
+- Id 23: removed "Notes the Guides' list leaves out membership and the Institute." The CEP Guide's list includes membership, so that note was wrong.
+- Id 36: expected said both "Refuses" and "May give the current $350". Now it must start with the refusal and may add the current 2027-2028 fee.
+- Ids 32-35: score_copilot.py now accepts the refusal with or without the final period.
+- Corrected Test 3 score: 32/36 (89%). Real agent misses: 19 (repeats the CPF typo), 36 (states a 2028-2029 fee), 3 and 23 (each leaves out one fact). agent/response-formatting.txt (477 of 500 characters) now covers all four.
