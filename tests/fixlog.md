@@ -48,3 +48,10 @@ Export: tests/Test 3/. Round 2 instructions and response formatting were in plac
 - Score: 29/36 (81%). FAQ 11/11, refusals 5/5, made-up fees 0.
 - Real misses: 21 says CPF has an annual PD standard like CEP F3 (wrong, CPF has no F3); 30 answers F2 for CEP only; 15 answers CEP C3 classroom visits instead of the virtual accreditation site visit; 24 is vague about which standards can share documentation. 19, 22, 23 leave out some details.
 - Q2 passes the grader but only links the list. Fixed in the same day's source update: 8 PDFs added (sources/ADDED-2026-10-21.md), instructions now let the agent name accredited colleges. Rows 2, 32 and 34 changed and 5 rows added, so the next run has 41 rows.
+
+## Test 6 (2026-10-21, 23 PDFs, new instructions)
+- Copilot ran the OLD 36-row test set (export's expected answers for rows 2, 32, 34 are the old ones), so 3 fails are stale rows where the agent is now right. Re-import tests/copilot-test-set.csv (41 rows) in Evaluate before the next run.
+- Raw: 23/36. Stale rows 2, 32, 34: agent right. 31 is a scorer miss ("All fees are per nacep.org as of"); scorer now case-insensitive.
+- Agent misses: 36 states $350 for 2028-29 (regression: response formatting had weakened the future-fee rule and the new cycles PDF covers 2028-29); 21 says CPF has annual PD like F3 (CPF Guide's line "CEP F3 and CPF F2: a single annual PD event can include both" misleads it); 15 answers CEP C3 classroom visits instead of the Virtual Site Visit; 35 adds text before the refusal; 24 vague.
+- Test-set fixes: 17 now matches both sources (April vote, letter by May 31, press release early June); 19, 20, 22 trimmed to what the question asks (they failed on evidence lists and years the question did not ask for); 2 matches the agent now naming colleges.
+- Response formatting rewritten (495 chars): stronger 2028-29+ fee refusal, CPF has no F3/annual PD, site visit = Virtual Site Visit, "reply only" refusal. Dropped the accredited-colleges line (instructions cover it).

@@ -1,0 +1,551 @@
+﻿"conversationId","question","expectedResponse","actualResponse","testMethodType_1","result_1","passingScore_1","explanation_1","testMethodType_2","result_2","passingScore_2","explanation_2"
+"9f16833b-b280-43a2-9390-f4115db62222","When was the first concurrent enrollment program accredited by NACEP?","NACEP accredited its first concurrent enrollment programs in 2004. Four programs were accredited that year.","The first concurrent enrollment program was accredited by NACEP in 2004, with four programs receiving accreditation that year [1]​[2].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","100/100 - Same meaning; The Agent answer gives the same information as the Expected response, just phrased a bit differently and with citations."
+"d2028ac5-a61c-424f-8d25-3828048ecc8b","What colleges in my state, and nationwide, currently sponsor accredited concurrent enrollment programs?","NACEP keeps a complete list of accredited programs on its website at nacep.org/accredited-programs. The assistant does not list colleges itself.","**NACEP-Accredited Concurrent Enrollment Programs by State and Nationwide**
+
+**Nationwide Overview**
+- As of 2025-2026, there are 136 concurrent enrollment partnerships holding NACEP accreditation across 132 institutions in 27 states.
+- 126 programs have the Concurrent Enrollment Program (CEP) Endorsement, and 10 programs have the College-Provided Faculty Model (CPF) Endorsement.
+- Accreditation is valid for five years for initial programs and seven years for re-accredited programs.
+- Accredited programs must submit an Annual Report, volunteer once every three years, and pay annual membership fees to remain in compliance.
+- Each program’s next Letter of Intent due date is December 1, and the application due date is June 15. Per nacep.org as of 2026-10-19. Check the site for current figures [1].
+
+**Examples of NACEP-Accredited Colleges by State**
+- **Arkansas:** Arkansas State University - Beebe, Arkansas State University Three Rivers, Arkansas State University-Newport, National Park College, North Arkansas College, NorthWest Arkansas Community College, Southern Arkansas University (Magnolia Campus), University of Arkansas Community College at Batesville, University of Arkansas Hope-Texarkana, University of Central Arkansas.
+- **Connecticut:** University of Connecticut.
+- **Florida:** Embry-Riddle Aeronautical University.
+- **Georgia:** Georgia Northwestern Technical College, West Georgia Technical College, Wiregrass Georgia Technical College.
+- **Idaho:** Boise State University, College of Eastern Idaho, Idaho State University, Lewis-Clark State College, University of Idaho.
+- **Illinois:** Elgin Community College, John A. Logan College.
+- **Indiana:** Ball State University, Indiana University, Ivy Tech Community College, Purdue University Fort Wayne, Purdue University Northwest (Westville Campus), Trine University, University of Southern Indiana, Vincennes University.
+- **Iowa:** Des Moines Area Community College, Eastern Iowa Community Colleges, Hawkeye Community College, Indian Hills Community College, Iowa Central Community College, Iowa Lakes Community College, Iowa Valley Community College, Iowa Western Community College, Kirkwood Community College, North Iowa Area Community College, Northeast Iowa Community College, Northwest Iowa Community College, Southeastern Community College, Southwestern Community College, Western Iowa Tech Community College.
+- **Kansas:** Johnson County Community College, Wichita State University Campus of Applied Sciences & Technology (WSU Tech).
+- **Kentucky:** Owensboro Community and Technical College, West Kentucky Community and Technical College.
+
+**Additional Accredited Colleges (Sample from Detailed List)**
+- Tompkins Cortland Community College (NY)
+- Hocking College (OH)
+- University of Findlay (OH)
+- Tulsa Community College (OK)
+- Pennsylvania Highlands Community College (PA)
+- University of Pittsburgh (PA)
+- Greenville Technical College (SC)
+- Spartanburg Community College (SC)
+- Northern State University (SD)
+- South Texas College (TX)
+- Snow College (UT) [2]​[1]
+
+For the most current and complete list of accredited colleges in your state and nationwide, refer to the official NACEP-accredited programs list at nacep.org/accredited-programs. Per nacep.org as of 2026-10-19. Check the site for current figures [1].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Fail","70","1. ⚠️ Additional info: The agent response adds a detailed list of accredited colleges and program requirements, such as Arkansas State University, University of Connecticut, and others, which is not present in the expected response.; 2. 🔍 Non-essential info: It seems like the additional details are non-essential because the expected response only directs users to the NACEP website for the full list, rather than listing colleges directly.; 3. 📚 Support assessment: The knowledge sources contain the additional details, including lists of accredited colleges and program requirements."
+"37158e99-3f36-4604-8a2e-4dc7544bd7e1","What are the NACEP standards and how were they developed?","NACEP standards are measurable criteria for quality concurrent enrollment partnerships. The first national standards were adopted in 2002 and revised in 2009 and 2017. The current standards have 16 standards in six categories, in effect since fall 2018. In 2019 NACEP added standards for the College Provided Faculty model.","**NACEP Standards and Their Development**
+
+**Overview of NACEP Standards**
+- NACEP standards are a set of rigorous national guidelines designed to ensure the quality of university and college classes offered through concurrent enrollment partnerships.
+- The standards cover six categories and sixteen standards for Concurrent Enrollment Programs (CEP), revised in 2017, and thirteen standards for the College Provided Faculty (CPF) Model, added in 2019.
+- The standards focus on areas such as instructional support, student assessment, student selection and services, program evaluation, and partnerships.
+
+**Development and Evolution**
+- The first national standards of program quality were adopted in 2002, following discussions among NACEP’s founders who were concerned about ensuring quality in concurrent enrollment partnerships.
+- The NACEP Board of Directors revised the standards in 2009 and again in 2017, with the latest version going into effect in fall 2018.
+- In 2019, the scope of accreditation was expanded to include the College Provided Faculty Model, reflecting ongoing feedback and the evolving needs of educational partnerships.
+- The standards are developed through deliberation and feedback from NACEP membership, state education agencies, and regional institutional accreditors, ensuring they reflect best practices for concurrent and dual enrollment programs.
+- The NACEP Accreditation Commission, established in 2013, manages the accreditation process, reviews peer review team reports, and makes accreditation decisions, operating autonomously but in close collaboration with the Board of Directors.
+
+**Purpose and Intent**
+- The intent of NACEP’s standards is not to micromanage college or university practice but to ensure that courses offered to high school students are actual college courses, equivalent in every way to their on-campus counterparts.
+- Regular college faculty bear primary responsibility for ensuring course content, assessments, and expectations are of comparable quality, and institutions must provide adequate resources to support both students and faculty.
+
+**Accreditation Process**
+- Accreditation is a voluntary, peer-review process designed to attest to the educational quality of new and established educational programs.
+- The review process is overseen by the NACEP Accreditation Commission, with peer review teams making recommendations based on documented evidence of practice, policy, and procedures that meet or exceed NACEP’s standards.
+- Each application is reviewed within the context of the institutional and state policy environment in which it operates, allowing for flexibility in presenting evidence of best practice.
+
+**Benefits**
+- Accreditation serves as a guarantee to students, policy-makers, and other postsecondary institutions that the accredited partnership meets rigorous national standards.
+- Even programs not seeking accreditation can benefit from understanding and instituting NACEP standards, as they represent best practices and provide a framework for program growth and development.
+
+[1]​[2]​[3]
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""
+[3]: cite:3 ""Citation-3""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer includes all the main points from the Expected response and adds a lot of extra details about the standards, their purpose, and the accreditation process."
+"b2fd81c6-0c34-487e-a7ca-2193f6a607ed","What are the benefits of becoming a NACEP-accredited program?","Accreditation guarantees to students, policy-makers and other postsecondary institutions that the partnership meets rigorous national standards. It distinguishes the partnership, helping it recruit new partners and students. It helps students and families get their concurrent enrollment credits recognized. Accredited programs can display the NACEP logo, and their staff get national leadership opportunities such as serving on the Board or as a committee chair.","**Benefits of Becoming a NACEP-Accredited Program**
+
+- **Quality Assurance:** Accreditation serves as a guarantee to students, policy-makers, and other postsecondary institutions that the accredited partnership meets rigorous national standards.
+- **Distinction and Recruitment:** It distinguishes a concurrent enrollment partnership, enhancing its ability to recruit new partners and students.
+- **Program Evaluation and Growth:** The self-study process used in accreditation provides a framework for program evaluation and growth, even for programs not seeking accreditation.
+- **Opportunities for Participation:** Accredited programs can participate in NACEP governance, including serving on the Board of Directors and Accreditation Commission, and voting in elections and matters related to by-laws and standards.
+- **Promotional Benefits:** Accredited programs may use NACEP’s name and logo in promotional materials for their concurrent enrollment program.
+- **Feedback and Recognition:** Accredited programs receive peer review team feedback and findings, and are recognized at the National Conference with certificates and plaques.
+- **Membership and Networking:** Accredited programs gain access to NACEP Postsecondary Institutional membership and participation, including opportunities to connect with other accredited institutions.
+- **Continuous Improvement:** Accredited programs are required to continue implementing NACEP standards and complete annual reports, supporting ongoing quality improvement.
+
+These benefits collectively support program credibility, growth, and engagement within the broader educational community [1]​[2]​[3].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""
+[3]: cite:3 ""Citation-3""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer covers all the main points in the Expected response and adds several extra benefits. It gives a more detailed list than the Expected response."
+"8260b51d-0640-4403-9916-d59a4122a352","Are NACEP standards worth understanding and instituting even if a program is not interested in accreditation?","Yes. NACEP standards represent best practices for educational partnerships. The self-study process works both as a program evaluation against the standards and as a framework for program growth.","**Value of NACEP Standards Without Pursuing Accreditation**
+
+- NACEP standards represent best practices for educational partnerships and concurrent enrollment programs.
+- Implementing these standards, even without seeking accreditation, provides a framework for program growth and development.
+- The self-study process, which is a first step in accreditation, serves as a programmatic evaluation to determine whether and how a program meets NACEP standards.
+- Understanding and instituting NACEP standards can help ensure program quality and offer guidance for improvement, regardless of accreditation status [1].
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer covers everything in the Expected response and adds some extra helpful details, but nothing essential is missing or changed."
+"ad25c4f8-3de8-4ace-a4fd-19bcf3b3cd4a","What is the difference between a concurrent enrollment program that is accredited and one that is not?","Accredited programs have completed a rigorous self-study and NACEP peer review and documented that their high school courses match the quality and rigor of the same courses on campus. Other programs may be just as good, but accreditation gives validation from an outside national organization. Some states require NACEP accreditation by law.","**Difference Between Accredited and Non-Accredited Concurrent Enrollment Programs**
+
+- **Accredited Programs:**
+  - Meet rigorous national standards established by the National Alliance of Concurrent Enrollment Partnerships (NACEP).
+  - Accreditation serves as a guarantee to students, policy-makers, and other postsecondary institutions that the partnership upholds high-quality practices.
+  - Undergo a self-study process and program evaluation to ensure compliance with NACEP standards.
+  - Benefit from recognition and credibility, which can support program growth and development.
+
+- **Non-Accredited Programs:**
+  - May not meet the same rigorous standards or undergo the same evaluation process.
+  - Lack the formal guarantee of quality and consistency provided by NACEP accreditation.
+  - May not be recognized by other institutions or policy-makers as meeting best practices for concurrent enrollment partnerships.
+
+Accreditation represents a commitment to quality and continuous improvement, distinguishing accredited programs from those that have not pursued or achieved this recognition [1].
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer explains the main differences and adds extra details, but it leaves out that some states require NACEP accreditation by law."
+"7794d3d5-9cdb-4b5a-9538-90feb0e1970f","How are programs approved for accreditation? What is the process and what do reviewers look for?","A Peer Review Team of two to three experienced concurrent enrollment professionals, appointed by the Accreditation Commission and from outside the applying system, reviews the application. They decide whether the evidence meets the intent of each standard, may ask for more documentation, and keep asking questions during the site visit. They then send a final report to the Accreditation Commission, which votes on accreditation.","**NACEP Accreditation Approval Process**
+
+- **Self-Study and Application Submission**
+  - Programs begin with a rigorous self-study to document how their concurrent enrollment courses match the quality and rigor of those offered on campus.
+  - A complete application includes a program description, application forms, cover sheets for each standard, and evidence showing the program meets or exceeds each NACEP standard. Evidence should be comprehensive, with contextual detail and sample documents illustrating processes, policies, and procedures [1]​[2].
+
+- **Peer Review Team Evaluation**
+  - Applications are reviewed by a Peer Review Team, typically consisting of two to three experienced professionals in concurrent enrollment (such as program directors, faculty liaisons, administrators, or secondary partners) from outside the system seeking accreditation.
+  - Reviewers analyze the application, deliberate through conferencing, and may request clarification or additional documentation to ensure the standards are met. They receive ongoing support from the Accreditation Commission [1]​[2].
+
+- **Site Visit and Final Report**
+  - The Peer Review Team continues to ask questions during the Site Visit portion of the process with the applying institution.
+  - At the end of the review, the team compiles and submits a final report to the NACEP Accreditation Commission, which uses this information to vote on granting or denying accreditation [2].
+
+**What Reviewers Look For**
+
+- Reviewers look for:
+  - Sufficient evidence and documentation to fulfill the intent of each NACEP standard.
+  - Comprehensive descriptions and sample documents that demonstrate appropriate processes, policies, and procedures are in place for continued implementation.
+  - Clarity in how the program ensures standards are met, especially given variations in institutional terminology and partnership programming.
+  - Exemplary program practices and recommendations for improvement [1]​[2].
+
+- If more information is needed, reviewers will request additional documentation or clarification to fully understand the program’s approach to meeting NACEP standards [1]​[2].
+
+**Summary**
+Programs are approved for accreditation through a detailed application and peer review process, with reviewers focusing on evidence of quality, rigor, and adherence to NACEP standards. The process includes ongoing support, site visits, and a final report that informs the Accreditation Commission’s decision [1]​[2].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer covers everything in the Expected response and adds more details about the process and what reviewers look for."
+"a7027c80-ce44-4057-83be-550b78ecaa55","How long does it take to apply for and receive NACEP accreditation?","Programs start preparing one to two years before applying. The accreditation cycle takes about 24 months. In year one the program submits a Letter of Intent (due December 1) and prepares and submits the application, which typically takes 4 to 6 months. In year two the peer review takes place, the Commission votes in April, and the decision is emailed in early May.","**NACEP Accreditation Timeline**
+
+- Preparation typically begins one to two years before submitting an application.
+- The accreditation cycle itself is approximately 24 months:
+  - **Year 1:** Submit a Letter of Intent, prepare the application, gather evidence, and finalize submission.
+  - **Year 2:** Undergo active peer review, including requests for additional evidence, a virtual site visit, and conclude with a vote on accreditation status in April.
+- Notification of accreditation status is sent by the end of May following the vote.
+
+This process means it generally takes about two years from initial preparation to receiving accreditation status [1]​[2]​[3].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""
+[3]: cite:3 ""Citation-3""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer covers most of the Expected response, but leaves out some timing details like the December 1 deadline and the 4–6 month application prep. It still explains the main process well."
+"e088d097-b0a8-40bb-a4c9-eb830b0e16be","How long do programs need to be in existence before applying for accreditation?","At least three consecutive school years.","**Program Existence Requirement for NACEP Accreditation**
+
+- Programs must have been in operation for at least three school years before applying for NACEP accreditation [1].
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","100/100 - Same meaning; The Agent answer says the same thing as the Expected response, just with a bit more detail and a citation."
+"34627569-8826-4f8c-a005-96afa262b3ea","How much does it cost?","Programs must first be NACEP members, at $560 a year. The Letter of Intent fee is $350. The application processing fee is $600 per endorsement for initial accreditation and $500 per endorsement for reaccreditation. Accredited programs pay a $500 annual accreditation fee plus membership, $1,060 a year in total. All fees are non-refundable and took effect September 1, 2026. Per nacep.org as of 2026-10-19. Check the site for current figures.","**NACEP Accreditation Cost Overview**
+
+- **Letter of Intent Fee:** $350 (not per endorsement). Per nacep.org as of 2026-10-19. Check the site for current figures.
+- **Application Processing Fee per Endorsement for Initial Accreditation:** $600. Per nacep.org as of 2026-10-19. Check the site for current figures.
+- **Application Processing Fee per Endorsement for Reaccreditation:** $500. Per nacep.org as of 2026-10-19. Check the site for current figures.
+- **Annual Postsecondary Membership Fee:** $560 (must join NACEP before submitting Letter of Intent). Per nacep.org as of 2026-10-19. Check the site for current figures.
+- **Annual Accreditation Fee for Accredited Programs:** $500 (in addition to membership fee). Per nacep.org as of 2026-10-19. Check the site for current figures.
+
+**Total Annual Fees for Accredited Programs:** $1060 (includes $500 accredited member fee and $560 postsecondary membership fee). Per nacep.org as of 2026-10-19. Check the site for current figures.
+
+These fees are non-refundable and are effective September 1, 2026. Please refer to the site for the most current figures and details [1]​[2].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","100/100 - Same meaning; The Agent answer gives all the same fee details as the Expected response, just organized a bit differently."
+"48a83e7f-2db0-4586-9faa-ba67090b7e67","What happens if an application for accreditation isn't successful?","The program is notified and receives the review team's report with recommendations. If it believes the evidence was misinterpreted, it may request reconsideration by a new peer review team, as described in the Accreditation Reconsideration and Appeals Process in NACEP's Accreditation Policy and Procedures Manual. A denied or withdrawn applicant may apply again in the following year's review cycle.","**Outcome of Unsuccessful Accreditation Application**
+
+- The program is notified of the denial and receives a report from the review team with recommendations.
+- The applicant may request reconsideration by a new peer review team if it believes the evidence was misinterpreted.
+- More information is available in the NACEP Accreditation Reconsideration and Appeals Process, found in the Accreditation Policy and Procedures Manual.
+- Applicants who withdraw or are denied may reapply in the next year’s application review cycle.
+
+Per nacep.org as of 2026-10-19. Check the site for current figures [1].
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","100/100 - Same meaning; The Agent answer says the same things as the Expected response, just in a different format and with a citation. Nothing important is missing or added."
+"50272f09-2815-4072-abae-9fdaec8269be","What does CEP standard F2 require?","CEP F2 requires faculty liaisons to give all new concurrent enrollment instructors course-specific training in course philosophy, curriculum, pedagogy and assessment before they teach the course. Required evidence: sample training materials and an agenda for each discipline, the faculty liaison's description of how new instructors are trained, and an attendance report with the date each new instructor was trained.","**CEP Standard F2 Requirements**
+
+- **Course-Specific Training:** Faculty liaisons at the college or university must provide all new concurrent enrollment instructors with training in course philosophy, curriculum, pedagogy, and assessment before the instructor begins teaching the course.
+- **Required Evidence:**
+  - For each discipline, a sample of course-specific training materials and agenda for new instructor training.
+  - A description written by the faculty liaison explaining how new instructors are trained and how the provided materials are used.
+  - Attendance tracking report documenting the date each new instructor received initial course-specific training.
+- **Implementation Guidance:**
+  - Training must occur prior to teaching and is distinct from annual professional development.
+  - Faculty liaisons are responsible for course-related training, not administrative orientation.
+  - Distributing syllabi or lists of resources alone does not suffice as training.
+  - No minimum contact hours are defined; programs should ensure sufficient time for reviewing curriculum, assessment, grading standards, and pedagogy.
+  - Training can be individual or cohort-based and may occur at the college or high school.
+  - Documentation of one-on-one trainings is required, including memos or emails detailing content covered.
+  - Invitations to training events are not acceptable as evidence.
+  - Attendance can be tracked via sign-in sheets, spreadsheets, or other forms; electronic signatures are acceptable.
+  - Programs must monitor participation and address non-participation.
+  - Smaller programs should describe their intended process for future new instructor approvals if none have occurred recently [1]​[2].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer includes all the main points from the Expected response and adds extra details about how to implement and document the training."
+"6726c724-6520-4e1d-999f-e2e290b271cc","What does CPF standard C2 require?","CPF C2 requires an academic administrator to review or conduct faculty evaluations and classroom observations following college policy. Required evidence: the published policy and procedures, and a sample of evaluations and observations with personal information redacted. The college sets the frequency, but the reviews must be done by an academic administrator, not CPF staff, and must be tracked.","**CPF Standard C2 Requirements**
+
+- **Faculty Evaluations and Classroom Observations:** Academic administrators must review and conduct faculty evaluations and classroom observations according to the college's policy and procedures.
+- **Required Evidence:**
+  - Published policy and procedures for classroom evaluations and observations.
+  - Sample of classroom evaluations and observations with personal information redacted.
+- **Additional Guidance:**
+  - Evaluations and observations must be performed by an academic administrator, not a college provided faculty staff member, and must be tracked.
+  - Electronic signatures are acceptable for faculty site visit reports.
+  - Reports can be submitted via email, learning management systems, or other databases.
+  - The focus is on reflective reports prepared by faculty liaisons, not the presence of a physical signature.
+  - Colleges have flexibility in defining the frequency of evaluations and observations.
+  - Programs may demonstrate comprehensive faculty support systems that allow for less frequent site visits and increased use of technology for ongoing collaboration and oversight.
+
+These requirements ensure that faculty evaluations and classroom observations are systematically conducted and documented, maintaining academic standards within the college provided faculty program [1]​[2]​[3].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""
+[3]: cite:3 ""Citation-3""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer covers all the main points in the Expected response and adds extra details about submission methods, electronic signatures, and flexibility. The main requirements are matched, but the Agent answer gives more information."
+"39ade7e3-ac6a-4941-bd93-6e8c5fce401c","How do I file a complaint about an accredited program?","Use the complaint form on NACEP's Accreditation Commission page. Complaints must be about systematic concerns that an accredited program, or one under initial review, is not meeting NACEP standards. NACEP does not accept disputes between an individual and an institution, or anonymous complaints.","**Filing a Complaint About an Accredited Program with NACEP**
+
+- The Accreditation Commission allows students, faculty, staff, secondary partners, and members of the public to inform the Commission about systematic concerns with concurrent enrollment programs that are accredited or undergoing initial accreditation review.
+- Complaints must provide information and evidence regarding an institution’s compliance with NACEP accreditation standards.
+- Disputes between an individual and a member institution cannot be submitted as complaints, as NACEP does not engage in such matters.
+- Anonymous complaints are not accepted.
+- To file a complaint, you should refer to the information and form provided by NACEP.
+
+**Contact Information for NACEP:**
+- Phone: 919.593.5205
+- Address: 179 E Franklin St, #578, Chapel Hill, NC 27514
+
+**Additional Notes:**
+- The process is designed to support, promote, and advance high-quality dual and concurrent enrollment programs through NACEP accreditation, training, policies, and best practices.
+- For further details or to access the complaint form, consult NACEP’s official resources and contact channels.
+
+[1]​[2]
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer covers all the main points in the Expected response and adds extra details like contact info and background, but these extras aren't essential."
+"10f0f946-8ce6-4a05-81eb-746935b6c88c","What are the rules for the accreditation site visit?","The accreditation site visit is virtual and required for initial accreditation and reaccreditation. Visits run from January to mid-March, last one or two days, and cost nothing. The Lead Commissioner and the Peer Review Team attend, and the meetings are not recorded.","**NACEP Accreditation Site Visit Rules**
+
+**1. Faculty Liaison Role**
+- Site visits must be conducted by a Faculty Liaison, who is a college/university faculty member responsible for discipline-specific training, annual professional development, and classroom visits for Concurrent Enrollment Instructors (CEIs).
+- The Faculty Liaison observes course content and delivery, student discourse, and rapport to ensure Concurrent Enrollment (CE) courses are equivalent to on-campus courses.
+
+**2. Site Visit Report Requirements**
+- A site visit report must be submitted as evidence, ideally including:
+  - The extent to which the CE syllabus and content represent the on-campus course.
+  - Impressions of student interest and involvement.
+  - Whether student assignments demonstrate rigor and depth equivalent to the on-campus course.
+  - Comparison of CEI’s evaluation of student work to on-campus evaluation.
+  - Student comments.
+  - Recommendations for improvement.
+
+**3. Information Gathered During Site Visit**
+- Review syllabus, graded assessments, and grade norming.
+- Discuss discipline-specific updates and departmental changes affecting the course.
+
+**4. Frequency and Tracking**
+- Programs must describe how site visits are tracked and define site visit frequency for first-time and veteran instructors.
+- Tracking documentation should list the most recent site visit date for each instructor and the name/title of the site visitor.
+- New instructors should receive a site visit during their first year, then follow the program-defined frequency cycle.
+
+**5. Flexibility and Best Practices**
+- Site visits can be conducted by tenured, tenure-track, adjunct, or non-tenure-track faculty with relevant experience, or senior academic officers.
+- Professional staff may conduct supplemental site visits, but these do not replace faculty liaison visits.
+- Electronic signatures are acceptable for site visit reports, which can be submitted via email, learning management systems, or databases.
+
+**6. Virtual Site Visit Protocol**
+- Virtual site visits occur between January and March 1.
+- Programs may host one-day or multi-day visits.
+- Peer Review Teams must meet with all designated stakeholder groups.
+- No recording is permitted.
+- No costs are associated with hosting NACEP for the virtual site visit.
+- Meeting durations are typically 45 minutes, with breaks scheduled between meetings.
+
+**7. Purpose**
+- Site visits validate that college expectations for the course are being met and strengthen collegial collaboration. Classroom observations are not used by high school administration for teacher evaluations.
+
+**8. Reporting**
+- Each discipline must have a site visit report performed by a faculty member with content knowledge of the discipline.
+- Institutions completing site visits on a rotation must provide reports for the most recent visit and comprehensive tracking documentation.
+
+These rules ensure the quality and equivalency of concurrent enrollment courses and provide structured feedback for continuous improvement [1]​[2]​[3].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""
+[3]: cite:3 ""Citation-3""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Fail","70","1. ⚠️ Additional info: The agent response adds more detail than the expected response, such as the Faculty Liaison's responsibilities, site visit report requirements, tracking, and flexibility in who can conduct visits.; 2. 🔍 Non-essential info: It seems like the additional details are non-essential for a basic understanding of the site visit rules, but they provide helpful context and clarity.; 3. 📚 Support assessment: The additional information is found in the knowledge sources, which describe these rules and procedures in detail."
+"6502f20e-d6d9-4ed9-b8b3-9ac5afe08a35","When is the Letter of Intent due and what does it cost?","The Letter of Intent for the 2027-2028 cycle is due December 1, 2026. It costs $350 and is non-refundable. It is submitted through your NACEP organization account starting September 1. Per nacep.org as of 2026-10-19. Check the site for current figures.","**Letter of Intent Due Date and Cost for NACEP Accreditation**
+
+- The Letter of Intent for NACEP Accreditation is due by **December 1, 2026** for the 2027-2028 accreditation cycle.
+- The associated cost for submitting the Letter of Intent is **$350**. This fee is not per endorsement but for the Letter of Intent itself.
+
+Per nacep.org as of 2026-10-19. Check the site for current figures [1]​[2].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer gives the due date and cost, but leaves out that the fee is non-refundable and that you submit through your NACEP account starting September 1."
+"902a74aa-af9b-4cc2-9a2d-9044b5d1afe8","When do we find out if we got accredited?","The Accreditation Commission votes in April. The findings letter and decision are emailed in early May, and the national press release goes out in early June.","**Notification of NACEP Accreditation Application Results**
+
+- Applicants will be notified of their accreditation status and receive a findings letter via email by May 31 of the year following their application submission. For example, if you submit your application for the 2028-2029 cycle, you will be notified by May 31, 2029. Similarly, for the 2029-2030 cycle, notification will occur by May 31, 2030 [1]​[2]​[3].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""
+[3]: cite:3 ""Citation-3""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Fail","70","1. 🛑 Missing info: The agent response leaves out that the Accreditation Commission votes in April and that a national press release goes out in June, which are mentioned in the expected response.; 2. 📚 Support assessment: It seems like the knowledge sources do not contain the missing details about the national press release in June.; 3. 🔍 Non-essential info: It seems like the missing information is important but not essential, since the main notification timeline is covered."
+"5fe423af-a537-4eff-a00b-76111dc8e10f","What do we have to pay and do each year once we're accredited?","Each year accredited programs pay a $500 accreditation fee plus the $560 membership fee, $1,060 in total. They must keep meeting the standards, submit an Annual Report each fall, volunteer every three years as a peer reviewer or Board, Commission or committee member, and tell NACEP at accreditation@nacep.org about substantial changes. Per nacep.org as of 2026-10-19. Check the site for current figures.","**Annual Fees for NACEP Accredited Programs**  
+- Accredited programs must pay an annual accreditation fee of $500, in addition to the yearly postsecondary membership fee of $560. The total annual amount is $1060. Per nacep.org as of 2026-10-19. Check the site for current figures.
+
+**Annual Requirements for NACEP Accredited Programs**  
+- Maintain postsecondary institutional membership in good standing.
+- Continue implementation of NACEP standards through applicable endorsement(s).
+- Complete an Annual Report (distributed in the fall).
+- Volunteer to serve every three years as a peer reviewer, board, or commission/committee member.
+- Notify the Accreditation Commission if there are substantial changes in policy or practice during the accredited term.
+- Use NACEP’s name and logo in promotional materials for the concurrent enrollment program.
+- Participate in governance opportunities, such as serving on the Board of Directors or Accreditation Commission, and voting in elections and matters related to by-laws and standards.
+- Programs that do not adhere to requirements or standards will receive a non-compliant status.
+
+These requirements and fees apply throughout the accredited years for NACEP-accredited programs [1]​[2].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer includes everything in the Expected response and adds extra details about using NACEP’s name, participating in governance, and what happens if requirements aren’t met."
+"db5864a1-8ea0-49bc-af26-4e8d30985260","What's the difference between CEP and CPF?","In CEP, high school teachers teach college courses to high school students. CEP standards were first adopted in 2002 and revised in 2009 and 2017, and there are 16. In CPF, college faculty who are not employed by the high school teach college courses to high school students, in any location or delivery method. CPF standards were adopted in October 2019, and there are 13. Both use the same six categories.","**Difference Between CEP and CPF**
+
+**Concurrent Enrollment Program (CEP):**
+- High school instructors are full-time employees of partner high schools.
+- Paying high school instructors a stipend does not change the model of endorsement.
+- Requires an organization chart showing how the program fits into the institution, a description of staff structure, and a listing of all faculty liaisons by discipline, including their roles and procedures.
+- Faculty liaisons are a required element for CEP, with comprehensive procedures and a practice guide or handbook.
+
+**College Provided Faculty Model (CPF):**
+- College provided faculty are part-time or full-time faculty members of the institution, not employed by a secondary partner.
+- Requires an organization chart and a description of staff structure, similar to CEP.
+- Listing of faculty liaisons by discipline and description of their role is not required for CPF.
+
+**Key Distinctions:**
+- CEP relies on high school instructors, while CPF uses college faculty.
+- CEP requires detailed evidence about faculty liaisons; CPF does not.
+- Both models must align with the college/university mission and be supported by administration and academic leadership.
+
+**Application Requirements:**
+- Both require a narrative describing program history, mixed class policies, geographic extent, funding sources, admission criteria, and relevant state regulations.
+- The standards and required evidence differ, especially regarding faculty liaison documentation.
+
+**Summary Table:**
+- CEP: High school instructors, faculty liaison listing required.
+- CPF: College faculty, faculty liaison listing not required.
+
+[1]
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Fail","70","1. 🛑 Missing info: The agent response leaves out important details found in the expected response, such as the number of standards, the years when CEP and CPF standards were adopted, and that both use the same categories.; 2. 📚 Support assessment: It seems like the knowledge sources do not contain the missing details about the number of standards, adoption years, or categories."
+"ab1a5540-8770-4cee-8d65-22eb35a91417","How does standard F2 differ between CEP and CPF?","CEP F2: faculty liaisons give new instructors course-specific training before they teach. Evidence is training materials and agenda per discipline, a liaison description, and an attendance report. CPF F2: the program makes sure instructors know and follow college policies for teaching high school students (FERPA, Disability Services, Grading, Student Conduct). Evidence is new-instructor administrative orientation materials and a description of how instructors are informed.","**Differences in Standard F2: CEP vs. CPF**
+
+- **Concurrent Enrollment Programs (CEP):**
+  - Faculty liaisons at the college or university provide all new concurrent enrollment instructors with course-specific training in course philosophy, curriculum, pedagogy, and assessment before the instructor teaches the course.
+
+- **College Provided Faculty (CPF):**
+  - The program ensures instructors are informed of and adhere to college or university policies and procedures for college provided faculty teaching high school students.
+
+**Summary of Key Differences:**
+- CEP focuses on course-specific training delivered by faculty liaisons, covering philosophy, curriculum, pedagogy, and assessment.
+- CPF emphasizes administrative orientation and adherence to institutional policies and procedures for faculty teaching high school students.
+
+These distinctions reflect the different roles and responsibilities in each model regarding instructor preparation and compliance [1].
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Fail","70","1. 🛑 Missing info: The agent response leaves out important details about the required evidence for CEP and CPF, such as training materials, agenda, liaison description, attendance report, and orientation materials. It also does not mention specific policies like FERPA, Disability Services, Grading, and Student Conduct.; 2. 📚 Support assessment: The knowledge sources contain the missing details, including the evidence requirements and specific policies for both CEP and CPF."
+"4ea003f8-8518-450c-866a-680c2089524b","Does CPF have an annual professional development standard like CEP F3?","No. CPF faculty standards are F1 and F2 only. CEP F3 requires annual discipline-specific professional development for all instructors. If applying for both, one annual professional development event can include CEP and CPF instructors.","**Annual Professional Development Standard for CPF vs. CEP F3**
+
+- The College Faculty Partner (CPF) program does have an annual professional development standard that is similar to the CEP F3 standard.
+- Specifically, a single annual professional development event can include instructors for both the Concurrent Enrollment Program (CEP) and the College Provided Faculty (CPF) endorsement, indicating that both models require ongoing discipline-specific professional development for instructors.
+- The CEP F3 standard outlines requirements for annual discipline-specific professional development and ongoing collegial interaction to enhance pedagogy and knowledge breadth. The CPF model aligns with this by allowing shared professional development activities for both CEP and CPF instructors, ensuring consistency in professional development standards across both models [1]​[2]​[3].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""
+[3]: cite:3 ""Citation-3""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Fail","70","1. 🔀 Conflicting answers: The agent says CPF has an annual professional development standard like CEP F3. This is different than the expected response, which says CPF does not require annual professional development and only follows F1 and F2 standards.; 2. 📚 Support assessment: It seems like the agent response is wrong because the expected response matches the knowledge sources."
+"5a46a497-ea29-4a8a-a64a-e575fa5afb13","How do classroom visits compare between CEP C3 and CPF C2?","CEP C3: faculty liaisons do site visits to check the course matches campus. The program sets the frequency for new and veteran instructors. Evidence: a typical visit description, how visits are tracked and how often, the latest visit date per instructor with the visitor's name and title, and one report per discipline. CPF C2: an academic administrator, not CPF staff, does evaluations and observations under college policy. The college sets the frequency and it must be tracked.","**Classroom Visits: CEP Standard C3 vs. CPF Standard C2**
+
+**CEP Standard C3 (Concurrent Enrollment Program):**
+- Faculty liaisons conduct site visits to observe course content and delivery, student discourse, and rapport.
+- The purpose is to ensure that courses offered through the concurrent enrollment program are equivalent to those offered on campus.
+- Site visits are used to provide feedback from college/university faculty to concurrent enrollment program instructors.
+- Evidence includes a description of what happens during a typical site visit and an explanation of how site visits are used for feedback [1]​[2].
+
+**CPF Standard C2 (College Provided Faculty Program):**
+- Academic administrators review and conduct faculty evaluations and classroom observations following college policy and procedures.
+- The focus is on ensuring courses reflect learning objectives and the pedagogical, theoretical, and philosophical orientation of the respective discipline.
+- Evidence includes published policy and procedures for classroom evaluations and observations, and samples of classroom evaluations and observations with personal information redacted [1].
+
+**Key Differences:**
+- CEP C3 emphasizes site visits by faculty liaisons for equivalency and feedback, specifically targeting concurrent enrollment instructors.
+- CPF C2 centers on evaluations and observations by academic administrators, following institutional policies, with a broader focus on course objectives and discipline orientation.
+- CEP C3 requires documentation of site visit activities and feedback, while CPF C2 requires policy documentation and sample evaluations [1]​[2].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Fail","70","1. 🛑 Missing info: The agent response leaves out details about how often classroom visits must happen, how visits are tracked, and the need to record the latest visit date and visitor's name for CEP C3.; 2. 📚 Support assessment: It seems like the knowledge sources do not contain the missing details about visit frequency, tracking, or naming the visitor."
+"c5f3a642-afad-457f-aaf5-2e3df92fa6cd","What are the eligibility requirements for NACEP accreditation?","NACEP member in good standing with dues current through the cycle. Offered CEP or CPF for at least three consecutive academic years. All standards' policies in place before applying. Documentation the practices were in place the preceding academic year. Attended an Accreditation Institute within 24 months before the Letter of Intent. Institution accredited by a regional or institutional accreditor recognized by the US Department of Education and authorized by the state higher ed agency.","**Eligibility Requirements for NACEP Accreditation**
+
+- The program must have been operational for at least three consecutive academic or school years.
+- The program must have implemented the policies and procedures described in all NACEP standards (sixteen standards for Concurrent Enrollment Program (CEP), thirteen standards for College-Provided Faculty (CPF)).
+- The program must be able to submit documentation that the practices described in the standards were in place during the school year immediately preceding the application.
+- The program must be a NACEP member in good standing with dues current at the time of application and maintained throughout the accreditation cycle.
+- The program must have attended a NACEP Accreditation Institute within the previous 24 months prior to submission of the Letter of Intent.
+- The program must possess and be able to submit documentation that the practices described in the standards were in place during the preceding academic year.
+- For CPF programs, if operated across multiple campuses, the application must demonstrate consistent policies and practices among campuses, or each campus must apply separately if they operate independently.
+
+These requirements ensure that the program is established, follows NACEP standards, and can provide evidence of compliance. Per nacep.org as of 2026-10-19. Check the site for current figures [1]​[2]​[3].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""
+[3]: cite:3 ""Citation-3""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer lists almost all the requirements but leaves out the need for the institution to be accredited by a recognized accreditor, which is an important part of the Expected response."
+"b4328287-077d-4bf4-8e2c-d7bbf076e48f","If we apply for both CEP and CPF, can we reuse documentation?","Yes for P1, P2, S1, S2, S4, E1 and E2 when a single process, procedure or policy is used. For S3 and S4, describe the differences between the models and why. One annual professional development event can cover CEP F3 and CPF F2.","**Reusing Documentation for CEP and CPF Accreditation Applications**
+
+- The Self-Study Assessment Worksheets for CEP and CPF are specifically designed to assist programs in preparing for their respective NACEP accreditation applications and ensuring compliance with NACEP standards.
+- Each worksheet and application process is tailored to the unique standards and requirements of CEP (Concurrent Enrollment Program) and CPF (College Provided Faculty Model).
+- While some documentation, such as evidence of institutional practices, policies, and best practices, may overlap, you must ensure that all documentation directly addresses the distinct standards for each endorsement.
+- It is recommended to assemble a diverse team and carefully document how your program meets each set of standards, using the appropriate worksheet for CEP and CPF.
+- Refer to the Accreditation Guides for CEP and CPF, as well as the Application Process & Resources menu, for guidance on acceptable practices and required evidence for each application.
+
+**Key Considerations**
+- Overlapping evidence may be used if it meets the requirements for both CEP and CPF standards, but you must ensure clarity and organization so reviewers can easily identify which evidence supports which application.
+- The use of the Self-Study Assessment Worksheet for CEP & CPF can assist your program in preparation prior to commitment to the NACEP accreditation application process and to ensure your program meets or exceeds NACEP's standards [1]​[2]​[3].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""
+[3]: cite:3 ""Citation-3""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Fail","70","1. 🛑 Missing info: The agent response leaves out specific details about which standards (like P1, P2, S1, S2, S4, E1, E2) can share documentation and how to handle differences for S3, S4, F3, and F2, which are included in the expected response.; 2. 📚 Support assessment: It seems like the knowledge sources do not contain the missing details about specific standards and documentation sharing."
+"7be57a00-abff-4bed-b93b-23d5c80f9154","We have campuses with separate OPE IDs. Can we apply on one application?","Possibly. Separate OPE IDs are treated as separate institutions unless they show a clear, consistent, seamless connection (uniform curricula, unified professional development, uniform publications, shared assessment reported as one unit). A single application must show consistent policies. The Program Context describes variations and each cover sheet explains consistency for that standard.","**NACEP Accreditation for Multi-Campus Institutions with Separate OPE IDs**
+
+- If your campuses have separate OPE ID numbers, NACEP will treat them as separate institutions for accreditation purposes.
+- You may submit a single application for NACEP accreditation only if you can demonstrate a clear, consistent, and seamless connection between the campuses regarding the activities involved in NACEP accreditation.
+- Evidence of such a connection includes:
+  - Uniform curricula for common courses across campuses
+  - Unified instructor professional development programs
+  - Uniform publications provided to schools and students that do not differentiate between campuses
+  - A shared assessment program reporting as a single unit
+- If you cannot demonstrate these connections, each campus must apply for NACEP accreditation individually.
+- For a single application, you must show consistent policies and practices among the campuses and describe any variations in policy and program administration in the Program Context narrative. Each standard’s cover sheet should explain how consistency is established for that standard [1]​[2].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","100/100 - Same meaning; The Agent answer covers all the same points as the Expected response, just in more detail and with clearer structure."
+"2cf44419-c64d-419a-a1f5-a250c5d7c679","Can the high school principal pick who teaches our dual credit English class?","No. Academic departments or deans must approve CEP instructor appointments. Appointments based only on HR's or a high school principal's recommendation aren't acceptable.","**Selection of Teachers for Dual Credit English Classes**
+
+- According to NACEP standards, a **Concurrent Enrollment Program** involves college-credit bearing courses taught to high school students by college-approved high school teachers. High School Instructors are defined as full-time employees of partner high schools.
+- The process of selecting instructors typically involves **academic leadership** at the college or university, which includes individuals responsible for curriculum and faculty decisions, such as department chairs, program coordinators, or academic deans, all under the Chief Academic Officer (Provost or VP of Academic Affairs).
+- While the high school principal may recommend or identify potential teachers, the final approval and endorsement must come from the college or university, ensuring the instructor meets the necessary qualifications and standards for teaching college-credit courses.
+- The **faculty liaison** (a college/university faculty member) is often responsible for reviewing potential concurrent enrollment instructors’ credentials and providing initial training and annual professional development.
+
+**Summary:** The high school principal can suggest or nominate a teacher, but the college or university must approve and endorse the instructor for dual credit English classes to meet NACEP standards [1].
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer says the principal can suggest a teacher, but the college or university must approve them. It adds more details than the Expected response, but the main idea is the same."
+"9a7e4126-4370-429c-8d6f-6ea368fe0fc3","Is giving new teachers the course syllabus enough training?","No. For CEP F2, providing or reviewing a syllabus alone isn't enough. The faculty liaison has to train new instructors on course philosophy, curriculum, pedagogy and assessment before they teach.","**Course Syllabus as Training for New Teachers**
+
+Providing new teachers with only the course syllabus is **not considered sufficient training** for them. According to NACEP Faculty Standard F2, the intent is for faculty liaisons to deliver comprehensive course-specific training covering course philosophy, curriculum, pedagogy, and assessment prior to the instructor teaching the course. Merely distributing or reviewing a syllabus does not fulfill the full requirements of this standard. Effective training should include detailed information about learning objectives, recommended or required texts, assessment methods, grading standards, and teaching strategies, ensuring new instructors are fully prepared to teach the college course. Additional materials, guidance, and documentation are necessary to meet accreditation standards and ensure course integrity [1].
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer covers everything in the Expected response and adds extra details about what training should include."
+"d3514a3b-c287-48ea-bd03-b0a46a0e0150","Our dual credit program started two years ago. Can we apply this year?","No. Programs need at least three consecutive academic years of operation.","**Eligibility for NACEP Accreditation**
+
+To be eligible for NACEP accreditation, a dual or concurrent enrollment program must have continuously offered NACEP-defined Concurrent Enrollment Program (CEP) or College-Provided Faculty program (CPF) for at least three consecutive academic years. Since your program began two years ago, you do not meet the minimum requirement of three consecutive academic years and are not eligible to apply for NACEP accreditation this year. You will need to wait until your program has been in operation for three consecutive academic years before applying [1]​[2].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer gives the same main information as the Expected response and adds some extra details about the requirements."
+"99ec7439-7897-48ca-be4f-2d673611197c","Do professors have to visit every high school class every year?","No. The program defines site visit frequency for first-time and veteran instructors (CEP C3). Rotations like every 3 years are allowed if tracking covers all years. When visits aren't annual, new instructors should get a visit in their first year.","**NACEP Faculty Site Visit Requirements**
+
+- Professors (faculty liaisons) are not required to visit every high school class each year for NACEP accreditation.
+- Concurrent enrollment programs have flexibility in defining the frequency of faculty site visits, as long as the integration of the standard is clearly demonstrated.
+- If site visits are not conducted annually, it is recommended that new concurrent enrollment program instructors receive a site visit during their first year, after which they follow the program-defined frequency cycle (such as a rotation every three years).
+- Site visits may be conducted by tenured, tenure-track, adjunct, or non-tenure-track faculty with relevant experience, or by senior academic officers.
+- The main requirement is that site visits validate course equivalency and are tracked, with reflective reports prepared by faculty liaisons. Electronic signatures are acceptable, and reports can be submitted via email or learning management systems.
+
+**Summary:** Annual visits are not mandatory; programs may set their own frequency, provided new instructors are visited in their first year and all visits are properly documented and tracked [1].
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer covers everything in the Expected response and adds extra details about who can do visits and how to document them."
+"2d8b9895-a55a-4828-b34d-1773f871ae19","What does F2 require?","F2 differs by endorsement. For CEP, F2 requires faculty liaisons to give new instructors course-specific training in course philosophy, curriculum, pedagogy and assessment before they teach. For CPF, F2 requires the program to make sure instructors know and follow college policies for teaching high school students.","**F2 Standard Requirements for NACEP Accreditation**
+
+- **Course-Specific Training:** Faculty liaisons at the college or university must provide all new concurrent enrollment instructors with course-specific training in course philosophy, curriculum, pedagogy, and assessment before the instructor begins teaching the course.
+- **Training Content:** The training must cover expectations for the course, including syllabi, learning outcomes, required textbooks, assessments, and grading policies. Simply providing or reviewing a syllabus is not sufficient; the training must be comprehensive and discipline-specific.
+- **Responsibility:** The relevant faculty liaison is responsible for delivering the course-related aspects of the training, not just administrative orientation.
+- **Timing:** Training must occur prior to the instructor teaching the course and may be delivered individually or to a cohort, either at the college or high school, and can be synchronous or asynchronous.
+- **Documentation:** Programs must document the occurrence and content of the training, such as memos, tracking spreadsheets, follow-up emails, or forms. Attendance can be tracked via sign-in sheets, databases, mileage reimbursement, or pay forms. Electronic signatures are acceptable, but participant signatures are not required.
+- **Monitoring Participation:** The program should monitor participation and take appropriate action for non-participation.
+- **No Minimum Contact Hours:** There is no defined minimum for contact hours, but programs should ensure sufficient time for faculty to review curriculum, assessment methods, grading standards, and pedagogy.
+- **Smaller Programs:** If no new instructors have been approved recently, smaller programs should describe their intended process for the next approval.
+
+These requirements ensure that new instructors are fully prepared to teach college-level courses and that the training is documented and monitored for compliance with NACEP standards [1]​[2].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer gives a detailed explanation of the CEP requirements and adds extra details, but it doesn't mention the CPF endorsement that the Expected response includes."
+"61b83c64-c7a5-410a-85dd-bd39668487d5","Is there a pre-application fee?","The FAQ's pre-application fee is now called the Letter of Intent fee, which is $350. Per nacep.org as of 2026-10-19. Check the site for current figures.","**NACEP Accreditation Pre-Application Fee**
+
+- Before submitting the Letter of Intent, a college must join NACEP as a postsecondary institutional member, which requires an annual membership fee of $560.
+- The submission fee for the Letter of Intent is $350, which is not per endorsement and is non-refundable. This fee is considered the pre-application fee for the accreditation process.
+- Additional fees include the Application Processing Fee per Endorsement for Initial Accreditation ($600) and for Reaccreditation ($500).
+- Accredited programs also pay an annual accreditation fee of $500, in addition to the yearly membership fee.
+- All fees are per nacep.org as of 2026-10-19. Check the site for current figures [1]​[2].
+
+[1]: cite:1 ""Citation-1""
+[2]: cite:2 ""Citation-2""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Pass","70","75/100 - Mostly same meaning; The Agent answer covers the main point about the $350 pre-application fee and adds extra details about other fees and conditions."
+"2d7b26e4-0558-4355-acda-2012309e27d1","Is IU's Advance College Project NACEP accredited?","That is not covered by the provided sources.","**Indiana University's Advance College Project (ACP) Accreditation Status**
+
+- The Advance College Project (ACP) at Indiana University (Bloomington, Indiana; 4 Year Public) is currently NACEP-accredited.
+- The program holds a CEP (Concurrent Enrollment Program) endorsement.
+- It is re-accredited and compliant, with its most recent re-accreditation in 2026.
+- The accreditation is valid through 2032-2033.
+- The next Letter of Intent is due December 1, 2031, and the next application is due June 15, 2032. Per nacep.org as of 2026-10-19. Check the site for current figures.
+
+This confirms that Indiana University's Advance College Project is currently accredited by NACEP [1].
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Fail","70","1. 🚫 Expected response is irrelevant: The expected response seems irrelevant to the question while the agent's response is relevant.; 2. 📚 Support assessment: It seems like the agent response is found in the knowledge sources. On the other hand, the expected response wasn't found in the knowledge sources."
+"ebe35a5d-8696-4449-9d42-a33a25060417","What does HLC require for dual credit faculty qualifications?","That is not covered by the provided sources.","That is not covered by the provided sources.","Answer quality","Fail",,"Not answered: The agent response says the information is not covered by the sources and does not try to provide any details about HLC requirements. It clearly indicates it cannot help with the question. Because the agent didn't answer the question, the response wasn't evaluated for relevance, completeness, or use of knowledge sources.","Meaning match","Pass","70","100/100 - Same meaning; The Agent answer says exactly the same thing as the Expected response."
+"1aa026f8-15fb-4992-a6d6-14da0380edbc","Who is on the Accreditation Commission right now?","That is not covered by the provided sources.","**Current Members of the NACEP Accreditation Commission**
+
+- **Michael Altomari**: Chair, Director, PESO Office, Minnesota State University, Mankato
+- **Sarah Topliff**: Associate Chair, Hawkeye Community College, Director of High School Partnerships, Waterloo, IA
+- **Kate DeKam**: Vice-Chair for Training & Commission Development, Accreditation Content Expert
+- **Connie Poteet**: Vice-Chair for Policy & Procedures, Concurrent and Academic Resources Coordinator, National Park College
+- **Diana Johnson**: Secretary for Accreditation, Early College Experience, NorthWest Arkansas Community College
+- **Joshua Floyd**: Two-Year Postsecondary Dual Enrollment Coordinator, Wytheville Community College
+- **Sandra Gonzalez**: Two-Year Postsecondary
+- **Travis Nelson**: Member At-Large, Director, Special Academic Programs, College in the High School, & Prior Learning, Edmonds College
+- **Randy Hill**: Private Postsecondary Campus Director, Baker College
+- **Abbie Huttenburg**: Two-Year Postsecondary, Director of K-12 Partnerships, Anoka-Ramsey Community College, Coon Rapids, MN
+- **Mark Schneider**: Two-Year Postsecondary, AVP K14 Academic Initiatives, Ivy Tech Community College
+- **Brett Meeker**: Four-Year Postsecondary, MSSU Dual Credit Program, Missouri Southern State University
+- **Amy Washam**: Four-Year Postsecondary, Director, Northwest Missouri State University-Kansas City
+- **Maria Wright**: Member At-Large, Director of Dual Enrollment, St. Cloud State University, St. Cloud, MN
+- **Dana Kelly**: External Member, Student Affairs Program Manager, Idaho State Board of Education
+- **Troy Byler**: Four-Year Postsecondary, Director, Advance College Project, Indiana University
+- **Karina Smith**: Four-Year Postsecondary, Associate Director, Boise State University
+- **Laura McMullin**: External Member, Accreditation Content Expert
+- **Robin Sterk**: External Member, Career Readiness Consultant, Kent ISD
+
+For the most current information, check the NACEP site as of October 21, 2026 [1].
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Fail","70","1. 🚫 Irrelevant info: The expected response seems irrelevant to the question while the agent's response is relevant.; 2. 📚 Support assessment: It seems like the agent response is found in the knowledge sources. On the other hand, the expected response wasn't found in the knowledge sources."
+"f9d174c7-bf43-4113-a41b-b79c8d7c30ef","What does Indiana law require for dual credit courses?","That is not covered by the provided sources.","**Indiana Law Requirements for Dual Credit Courses**
+
+- The provided sources do not specify the exact requirements mandated by Indiana law for dual credit courses.
+- However, NACEP-accredited concurrent enrollment programs in Indiana must comply with relevant state policies, regulations, statutes, and laws as part of their program description and accreditation process. This includes providing a narrative on program history, development, admission criteria, and any restrictions or policies related to mixed classes and course payment responsibilities [1].
+- For detailed legal requirements, programs are expected to reference and adhere to applicable Indiana statutes and regulations as part of their accreditation application [1].
+
+That is not covered by the provided sources.
+
+[1]: cite:1 ""Citation-1""","Answer quality","Fail",,"Not answered: The agent response says the sources do not specify the legal requirements and only gives general information about accreditation, so it does not actually provide the requested legal details. Because the agent didn't answer the question, the response wasn't evaluated for relevance, completeness, or use of knowledge sources.","Meaning match","Fail","70","1. ⚠️ Additional info: The agent response adds information about NACEP-accredited programs in Indiana needing to reference state policies, regulations, statutes, and laws in their program descriptions, which is not in the expected response.; 2. 🔍 Non-essential info: It seems like the additional details are non-essential because they provide context about accreditation requirements but do not directly answer the user's question about Indiana law requirements for dual credit courses.; 3. 📚 Support assessment: The knowledge sources contain the additional details, as the NACEP Accreditation Guide requires program descriptions to include relevant state policies, regulations, statutes, and laws."
+"f04a40f5-dcdc-49a3-a59f-289bf3f64f31","What will the Letter of Intent fee be for the 2028-2029 cycle?","That is not covered by the provided sources. NACEP has only published the 2027-2028 Letter of Intent fee, which is $350.","The Letter of Intent fee for the 2028-2029 NACEP accreditation cycle is $350, not per endorsement. Per nacep.org as of 2026-10-19. Check the site for current figures [1].
+
+[1]: cite:1 ""Citation-1""","Answer quality","Pass",,"All quality checks passed: The response is on topic, provides useful information, and is well supported by the available documents.","Meaning match","Fail","70","1. ⚠️ Additional info: The agent response adds information by stating the Letter of Intent fee for the 2028-2029 cycle is $350, which is not mentioned in the expected response.; 2. 🔍 Non-essential info: It seems like the additional details are important but not critical, since the fee for the 2028-2029 cycle is not officially confirmed in the sources.; 3. 📚 Support assessment: It seems like the knowledge sources do not contain the additional details for the 2028-2029 cycle fee, only confirming the fee as of 2026."

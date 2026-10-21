@@ -17,9 +17,9 @@ Do these in order. Values in code blocks are paste-ready.
 - **Deep reasoning:** off
 - **Content moderation:** Medium
 - **Tenant graph grounding / enhanced search:** off (it costs 10 credits per answer)
-- **Response formatting** (paste, 498 characters):
+- **Response formatting** (paste, 495 characters):
 ```
-CPF faculty: NOT employed by a secondary partner. Letter of Intent: $350, not per endorsement. Fees after 2027-28: That is not covered by the provided sources. Standards: CEP 16 (2017), CPF 13 (2019). Eligibility needs regional accreditation. Name accredited colleges from the Programs List; link nacep.org/accredited-programs. After a fee or due date add: Per nacep.org as of 2026-10-19. Check the site for current figures. If uncovered, reply exactly: That is not covered by the provided sources.
+CPF faculty: NOT employed by a secondary partner. CPF has no F3 or annual PD. Letter of Intent: $350, not per endorsement. 2028-29+ fees: reply only That is not covered by the provided sources. Accreditation site visit = Virtual Site Visit, not C3. Standards: CEP 16 (2017), CPF 13 (2019). Eligibility needs regional accreditation. After fees or due dates add: Per nacep.org as of 2026-10-19. Check the site for current figures. Uncovered: reply only That is not covered by the provided sources.
 ```
 - Content moderation custom message (if asked):
 ```
