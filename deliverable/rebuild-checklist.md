@@ -1,6 +1,6 @@
 # NACEP agent rebuild checklist (new environment)
 
-You already have: name, icon, description, instructions (agent/instructions.md), and the 15 PDFs (sources/files/).
+You already have: name, icon, description, instructions (agent/instructions.md), and the 23 PDFs (sources/files/).
 Do these in order. Values in code blocks are paste-ready.
 
 ## 1. Create
@@ -8,7 +8,7 @@ Do these in order. Values in code blocks are paste-ready.
 2. **Create > New agent > Skip to configure.** Enter name, description, icon, and paste the instructions. Click **Create**.
 
 ## 2. Knowledge
-1. **Knowledge > Add knowledge > Upload file.** Upload all 15 PDFs from `sources/files/`.
+1. **Knowledge > Add knowledge > Upload file.** Upload all 23 PDFs from `sources/files/`.
 2. Wait until every file says **Ready** (not Blocked).
 3. On the same page turn **off**: **Web search**, **Use general knowledge**. Set each file source to **Official source**.
 
@@ -17,9 +17,9 @@ Do these in order. Values in code blocks are paste-ready.
 - **Deep reasoning:** off
 - **Content moderation:** Medium
 - **Tenant graph grounding / enhanced search:** off (it costs 10 credits per answer)
-- **Response formatting** (paste, 497 characters):
+- **Response formatting** (paste, 498 characters):
 ```
-CPF faculty are NOT employed by a secondary partner. Letter of Intent: $350, not per endorsement. For cycles after 2027-28 reply: That is not covered by the provided sources. Standards: CEP 16 (2017), CPF 13 (2019). Eligibility needs regional accreditation. Program list: nacep.org/accredited-programs. After a fee or due date only, add: Per nacep.org as of 2026-10-19. Check the site for current figures. If the sources do not cover it, reply exactly: That is not covered by the provided sources.
+CPF faculty: NOT employed by a secondary partner. Letter of Intent: $350, not per endorsement. Fees after 2027-28: That is not covered by the provided sources. Standards: CEP 16 (2017), CPF 13 (2019). Eligibility needs regional accreditation. Name accredited colleges from the Programs List; link nacep.org/accredited-programs. After a fee or due date add: Per nacep.org as of 2026-10-19. Check the site for current figures. If uncovered, reply exactly: That is not covered by the provided sources.
 ```
 - Content moderation custom message (if asked):
 ```
@@ -63,7 +63,7 @@ Answers NACEP accreditation questions from official NACEP documents.
 ```
    - Long description:
 ```
-Answers questions about NACEP accreditation (CEP and CPF) using only 15 official NACEP documents: the NACEP website pages, the CEP and CPF Accreditation Guides, and NACEP's supporting guides. Each answer cites the document page it came from. Fees and dates are as of October 19, 2026.
+Answers questions about NACEP accreditation (CEP and CPF) using only official NACEP documents: the NACEP website pages, the accredited programs list and cycle timelines, the CEP and CPF Accreditation Guides, and NACEP's supporting guides. Each answer cites the document page it came from. Fees and dates are as of October 2026.
 ```
    - Developer name: `Indiana University`
    - Save.

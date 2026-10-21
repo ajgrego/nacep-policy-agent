@@ -84,7 +84,9 @@ Rows 1 to 5 are Mike's pages. 6 and 7 are linked from his Standards page and hol
 
 If a Box file is Word or Excel, keep it as is if it's .docx. If it's .xlsx, open it and **File > Export as PDF**, because spreadsheets index poorly.
 
-**Leave out** (link only, the agent can point to them): CEP and CPF Summary Guides (repeat the full Guides, duplicate text hurts retrieval), accredited programs list and Accreditation Institutes calendar (change often), Commission members page (named people), join, volunteer, conference and Letter of Intent login pages, Evaluation Toolkit site, District HS Guide, other issue briefs, naceplearning.org.
+**Leave out** (link only, the agent can point to them): CEP and CPF Summary Guides (repeat the full Guides, duplicate text hurts retrieval), volunteer, conference and Letter of Intent login pages, Evaluation Toolkit site, District HS Guide, naceplearning.org.
+
+**Added 2026-10-21** (sources/files/, see sources/ADDED-2026-10-21.md): accredited programs list, upcoming accreditation cycles, membership dues, Commission members, peer reviewer page, Accreditation Institutes page, A1 and initial course-specific training issue briefs.
 
 ### 1.2 Check every file (10 min)
 ```
